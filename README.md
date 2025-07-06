@@ -260,10 +260,10 @@ docker run -p 8000:8000 nuraleyn-hospital
 
 For support and questions:
 - **Email**: support@nuraleyn.com
-- **Phone**: +254 700 000 000
-- **WhatsApp**: +254 712 345 678
+- **Phone**: +254 740 145 342
+- **WhatsApp**: +254 740145342
 - **Address**: Nairobi, Kenya
-- **Emergency**: +254 700 000 000
+- **Emergency**: +254 740145342
 
 ## 📄 License
 
